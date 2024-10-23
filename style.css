@@ -1,0 +1,18 @@
+body { 
+    background-image : linear-gradient(#c59538 , #ba460d, #c0261c)
+    color #185b63 ;
+    font-size: 35px;
+}
+
+h1{
+    color: #404040;
+}
+
+h2 {
+    background-color: aliceblue;
+    color: #3d7b80;
+}
+
+img {
+    width: 500px;
+}
